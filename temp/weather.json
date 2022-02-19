@@ -1,0 +1,17 @@
+{
+    "coord":{"lon":128.0737,"lat":35.1686},
+    "weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],"base":"stations",
+    "main":{
+        "temp":274.64,"feels_like":274.64,"temp_min":274.64,"temp_max":274.64,"pressure":1024,"humidity":55,"sea_level":1024,"grnd_level":1012
+    },
+    "visibility":10000,
+    "wind":{"speed":0.44,"deg":288,"gust":0.79},
+    "clouds":{"all":100},
+    "dt":1645229666,
+    "sys":{"type":1,"id":5507,"country":"KR","sunrise":1645222217,"sunset":1645261992},
+    "timezone":32400,
+    "id":1846052,
+    "name":"Jinju",
+    "cod":200
+}
+
